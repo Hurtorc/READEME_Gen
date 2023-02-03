@@ -1,6 +1,6 @@
-# tet
+# README
 
-### tt
+### README Genrator
 
 ## Table of Contents
 [Description](#description)
@@ -12,23 +12,23 @@
 [Questions](#questions)
 
 ## Description
-tttt
+This generator will generate an entireley fleshed out README based on the users input and responses
 
 ## Installation
-ttt
+Copy the Github and use NodeJS to launch the Index.js file
 
 ## Usage
-tttt
+Use NodeJS to launch the Index.js file
 
 ## Contribution
-ttt
+ Anyone can contribute :)
 
 ## Test
-ttt
+N/A
 
 ## License
 MIT
 
 ## Questions
-If you have any questions, please contact me at tt or visit my GitHub page at ttt.
+If you have any questions, please contact me at anire88@gmail.com or visit my GitHub page at Hurtorc.
 
