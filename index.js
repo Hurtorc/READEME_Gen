@@ -9,7 +9,6 @@ const questions = [
     type: "input",
     name: "filename",
     message: "What would you like to name your README file?",
-
   },
   {
     type: "input",
@@ -61,7 +60,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-  fs.writeToFile(fileName, data, (err) => {
+  fs.writeFileSync(fileName, data, (err) => {
     if (err) {
       return console.log(err);
     }
